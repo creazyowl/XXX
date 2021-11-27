@@ -1,0 +1,149 @@
+ 
+ *{
+    margin: 0; 
+    padding: 0;
+ }
+ 
+ 
+
+ .Dota, .Heros, .Hero1, .Hero2, .Hero3, .Lovk, .Cila, .Ym {
+     background: linear-gradient(45deg, #000000, #444444);
+}
+
+.class {
+    background: linear-gradient(45deg, #000000, #444444);
+color: cornsilk;
+display: flex;
+	flex-wrap: wrap;
+justify-content: center;
+
+height: 50px;
+
+}
+
+
+.Dota {
+    background: linear-gradient(45deg, #000000, #444444);
+    
+height: 100px;
+
+color: cornsilk;
+display: flex;
+	flex-wrap: wrap;
+justify-content: center;
+
+font-size: 50px;
+
+
+}
+.Heros {
+    background: linear-gradient(45deg, #000000, #444444);
+
+    height: 50px;
+    color: cornsilk;
+
+    font-size: 30px;
+    display: flex;
+	flex-wrap: wrap;
+justify-content: center;
+
+
+}
+
+.Hero1 {
+    background-color: rgb(255, 0, 0);
+
+    color: cornsilk;
+
+    font-size: 30px;
+
+    display: flex;
+	flex-wrap: wrap;
+justify-content: left;
+
+
+}
+
+.Hero2 {
+    background-color: rgb(0, 255, 34);
+
+    color: cornsilk;
+
+font-size: 30px;
+
+display: flex;
+	flex-wrap: wrap;
+justify-content: left;
+
+
+
+}
+
+.Hero3 {
+    background-color: rgb(0, 255, 255);
+
+    color: rgb(255, 255, 255);
+
+    font-size: 30px;
+    display: flex;
+	flex-wrap: wrap;
+justify-content: left;
+
+
+
+}
+
+
+.Lovk {
+    color: rgb(255, 255, 255);
+
+    font-size: 30px;
+
+    display: flex;
+	flex-wrap: wrap;
+justify-content: left;
+
+}
+
+.Cila{
+    color: rgb(255, 255, 255);
+
+    font-size: 30px;
+
+    display: flex;
+	flex-wrap: wrap;
+justify-content: left;
+}
+
+.Ym{
+    color: rgb(255, 255, 255);
+
+    font-size: 30px;
+
+    display: flex;
+	flex-wrap: wrap;
+justify-content: left;
+}
+
+
+
+.Dota2- { 
+    color: rgb(255, 255, 255);
+
+    font-size: 30px;
+
+    background: linear-gradient(45deg, #000000, #444444);
+
+    display: flex;
+	flex-wrap: wrap;
+justify-content: left;
+}
+
+img {
+    width:500px ;
+    height: 300px;
+}
+
+
+
+
